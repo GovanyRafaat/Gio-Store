@@ -107,6 +107,53 @@ window.PRODUCTS = [
     price: 350,
     category: "إلكترونيات",
     description: "جهاز ألعاب فيديو صغير وسهل الاستخدام بيجمع ألعاب زمان وبيخليك تستمتع بيها في أي وقت وفي أي مكان 🎮✨"
+  },
+  {
+    images: [
+      "https://media.taager.com/a3b4751f-f182-4f90-b53f-a13c11dbb3bd.jpg",
+      "https://media.taager.com/993d9d3e-4a03-4e78-a837-feb2bc2d4210.jpg",
+      "https://media.taager.com/e2a85bd0-4dcf-4ad7-8375-f8831b2bc483.jpg"
+    ],
+    name: "سبيكر الدبدوب الكيوت",
+    price: 450,
+    category: "إلكترونيات",
+    description: "لو بتدور على سبيكر شكله كيوت وصوته عالي، سبيكر MZ M4 Portable Bluetooth Speaker هو الاختيار الصح. بيجمع بين التصميم اللطيف والصوت القوي، يخليك تستمتع بالمزيكا في أي وقت وأي مكان"
+  },
+  {
+    images: [
+      "https://media.taager.com/2839ad61-dd20-49bb-9a35-187e78969ff7.jpg",
+      "https://media.taager.com/c55fd6a5-9ad8-427c-80fd-96098583ee6c.webp",
+      "https://media.taager.com/78268821-a249-49b8-8e52-b5b9bbc57c16.jpg",
+      "https://media.taager.com/ca4a0361-e886-4864-a490-b5539acac7ce.png"
+    ],
+    name: "شنطة زجاجة مغناطيسية لجيم",
+    price: 450,
+    category: "إكسسوارات رياضية",
+    description: "شنطة جيم مغناطيسية بتتعلق على أي سطح حديد لحفظ الموبايل وزجاجة المياه بسهولة ومن غير ما تتحط على الأرض 💪🔥" 
+  },
+  {
+    images: [
+      "https://media.taager.com/117754ec-ab38-4130-9c10-e0691f803d96.jpg",
+      "https://media.taager.com/a6ff05fd-e148-4314-8095-588ab1918bf1.jpg",
+      "https://media.taager.com/4e9b2fa9-23d1-409a-a168-2ec0317f80a1.jpg",
+      "https://media.taager.com/f7d68d09-91b9-479b-943d-8c5392522646.jpg"
+    ],
+    name: "بدال رياضي ديجيتال",
+    price: 850,
+    category: "إكسسوارات رياضية",
+    description: "معندكش وقت تروح الجيم وتتمرن، البدال الرياضي بشاشة ديجيتال هيساعدك تمرن عضلات دراعك، ورجلك  في البيت بسهولة" 
+  },
+  {
+    images: [
+      "https://media.taager.com/f08ee941-07f6-476b-aae3-f51699c6adbe.png",
+      "https://media.taager.com/9d0d180a-e426-498a-ad6f-8f1c41bebafb.jpg",
+      "https://media.taager.com/933b9b1b-d3c8-4103-bd6c-3500206199bb.jpg",
+      "https://media.taager.com/c0865293-be3f-4164-8ae0-681321981e11.jpg"
+    ],
+    name: "قطاعه سليزر محموله",
+    price: 1100,
+    category: "ادوات منزلية",
+    description: "✨ قطاعه سليزر محمولة بتوفرلك أسرع وأسهل طريقة لتقطيع الخضار والفواكه بشكل مرتب واحترافي زي المحلات، من غير تعب أو وقت طويل في المطبخ 😍💥" 
   }
 ];
 
