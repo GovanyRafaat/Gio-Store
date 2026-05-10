@@ -154,6 +154,80 @@ window.PRODUCTS = [
     price: 1100,
     category: "ادوات منزلية",
     description: "✨ قطاعه سليزر محمولة بتوفرلك أسرع وأسهل طريقة لتقطيع الخضار والفواكه بشكل مرتب واحترافي زي المحلات، من غير تعب أو وقت طويل في المطبخ 😍💥" 
-  }
+  },
+  {
+    images: [
+      "https://media.taager.com/086cea1a-e167-4ff2-a14f-557166567f47.jpg",
+      "https://media.taager.com/d7a8f817-9af8-4e9b-b8c3-826bf529f4c8.jpg",
+      "https://media.taager.com/87edc8ad-1de4-4515-9617-b8fc1fad4c30.jpg",
+      "https://media.taager.com/08345591-91c6-48a5-bbb6-ffaff5c58738.jpg"
+    ],
+    name: "فرشه 5 في 1",
+    price: 600,
+    category: "ادوات منزلية",
+    description: "✨ فرشة كهربائية 5×1 للمطبخ بتنضف الدهون والبقع الصعبة بسهولة، وبتيجي مع أدوات للخفق والتقليب وتنضيف الكوبايات، علشان توفّر وقتك ومجهودك في التنضيف وتحضير الأكل 💪🍽️" 
+  },
+  {
+    images: [
+      "https://media.taager.com/de53cbf0-1802-4465-b59a-4a0855b5b795.png",
+      "https://media.taager.com/02854b23-d53a-46db-9f4b-fc0a996460bf.png",
+      "https://media.taager.com/4a387a8f-f551-4547-b968-c95a3943c39e.png",
+      "https://media.taager.com/684e17a0-953c-4b15-8d41-0897c5dc7d03.png"
+    ],
+    name: "سماعة ايربودز من رينو",
+    price: 600,
+    category: "إلكترونيات",
+    description: "✨ مش أي سماعة… دي اللي هتخليك تحس بالمزيكا حوالينك 🎶  ودّع الصوت الواطي والتشويش، وجرب نقاء يخليك تعيش اللحظة بكل تفاصيلها 🔥" 
+  },
+  {
+    images: [
+      "https://media.taager.com/d05d378c-0c5d-4d2c-b283-7d0c9b99a4cb.jpg",
+      "https://media.taager.com/bf896254-e16f-4e39-a3b9-c5dcde4dbb2c.jpg",
+      "https://media.taager.com/cc084ef1-16ff-46b1-8093-311dd2f44e98.jpg",
+      "https://media.taager.com/c8958102-82a9-40c4-bb4e-066c834bd31a.jpg"
+    ],
+    name: "سيروم Essence الفوري لتطويل وتقوية الأظافر",
+    price: 350,
+    category: "صحة وجمال",
+    description: "✨ سيروم Essence لتطويل وتقوية الأظافر بيقلل التكسر ويغذي الأظافر بزيوت طبيعية وفيتامين E، علشان يمنحك أظافر أقوى وأطول ولمعة صحية خلال 14 يوم ✨" 
+  },
+  {
+    images: [
+      "https://media.taager.com/0b651c29-ad51-4d1c-87e5-2860a7aaac80.jpg",
+      "https://media.taager.com/c8e67d4d-ef25-42f8-9e77-2b6011a849be.jpg",
+      "https://media.taager.com/3bf80a4b-677d-476b-b097-73e3a154cee3.jpg",
+      "https://media.taager.com/719cde97-7108-430f-8e81-977a25fdd687.jpg"
+    ],
+    name: "منظف و معقم شكل ورده",
+    price: 220,
+    category: "ادوات منزلية",
+    description: "جل تنظيف الحمام المعطر بشكل وردة بينضف ويعقم ويمنع الروائح الكريهة، ويسيّب الحمام ريحته منعشة ونضيف لفترة طويلة بكل سهولة ✨🚽" 
+  },
+  {
+    images: [
+      "https://media.taager.com/3ae21c69-ad26-4925-b780-ed8fda894010.jpg",
+      "https://media.taager.com/cc15ff38-deb0-46ba-a6d3-cea63e5d5452.jpg",
+      "https://media.taager.com/68adf77c-e4e7-4c97-935f-36cb086c168c.jpg",
+      "https://media.taager.com/ff18a39f-f011-4bfa-a429-bec01acc9a9e.jpg",
+      "https://media.taager.com/983e8ea2-5e14-4fbb-8198-4cc4fb42ad52.jpg"
+    ],
+    name: "مج كهربائي الترند",
+    price: 350,
+    category: "ادوات منزلية",
+    description: "☕ مج كهربائي ذاتي التقليب بيخلط القهوة والحليب والمشروبات بضغطة زر بسهولة، بتصميم عملي وسعة مناسبة للاستخدام اليومي في البيت أو الشغل 👌" 
+  },
+  {
+    images: [
+      "https://media.taager.com/46382d41-1ff5-4a49-b54e-40e7d2f74101.jpg",
+      "https://media.taager.com/8f14d8d7-1ae1-4a5e-a716-ebbf760eb95c.jpg",
+      "https://media.taager.com/28e31c28-6631-42d8-9fba-5333c2d1f6a0.jpg",
+      "https://media.taager.com/80d40d07-bf43-4833-a3ac-38f8b1ecccf3.jpg",
+      "https://media.taager.com/8e494766-8727-4907-876b-b4f34f277b47.jpg"
+    ],
+    name: "ماسك الملايه 4 قطع",
+    price: 210,
+    category: "ادوات منزلية",
+    description: "✨ ماسك الملاية 4 قطع بيثبت الملاية بإحكام ويمنعها من التكشك أو الخروج من مكانها، علشان يفضل السرير مرتب طول الوقت 🛏️👌" 
+  },
 ];
 
