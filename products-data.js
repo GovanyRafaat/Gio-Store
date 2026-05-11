@@ -133,10 +133,10 @@ window.PRODUCTS = [
   },
   {
     images: [
-      "https://media.taager.com/117754ec-ab38-4130-9c10-e0691f803d96.jpg",
-      "https://media.taager.com/a6ff05fd-e148-4314-8095-588ab1918bf1.jpg",
-      "https://media.taager.com/4e9b2fa9-23d1-409a-a168-2ec0317f80a1.jpg",
-      "https://media.taager.com/f7d68d09-91b9-479b-943d-8c5392522646.jpg"
+      "https://i.ibb.co/wZW6xc9m/117754ec-ab38-4130-9c10-e0691f803d96.jpg",
+      "https://i.ibb.co/JFtYQw1Q/a6ff05fd-e148-4314-8095-588ab1918bf1.jpg",
+      "https://i.ibb.co/SwqJWw2z/4e9b2fa9-23d1-409a-a168-2ec0317f80a1.jpg",
+      "https://i.ibb.co/LzZNJZjt/f7d68d09-91b9-479b-943d-8c5392522646.jpg"
     ],
     name: "بدال رياضي ديجيتال",
     price: 850,
@@ -228,6 +228,73 @@ window.PRODUCTS = [
     price: 210,
     category: "ادوات منزلية",
     description: "✨ ماسك الملاية 4 قطع بيثبت الملاية بإحكام ويمنعها من التكشك أو الخروج من مكانها، علشان يفضل السرير مرتب طول الوقت 🛏️👌" 
+  },
+  {
+    images: [
+      "https://i.ibb.co/7tWNfYgr/OCvuv-ZSn.jpg",
+      "https://i.ibb.co/xKs65yPw/nfo-Qq-XW.jpg",
+      "https://i.ibb.co/ZptrVypm/L5-ZTu-N5o.jpg"
+    ],
+    name: "شوز L.V مستورد",
+    price: 500,
+    category: "أحذية",
+    description: "👟 شوز L.V مستورد بتقفيل مصري عالي الجودة، خامات ممتازة وتصميم شيك ومريح يناسب الخروجات والاستخدام اليومي بأعلى مستوى من الأناقة 🔥" 
+  },
+  {
+    images: [
+      "https://i.ibb.co/DPc9pC6v/ed511592-dc37-48e6-a3ba-ce69968edb65.jpg",
+      "https://i.ibb.co/0Rbjfv7f/03-WASF99-2.jpg",
+      "https://i.ibb.co/27bL8SMq/7b0f9e93-6e32-4b4e-a10d-eaf4b5848473.jpg"
+    ],
+    name: "مروحة الرقبة السحرية",
+    price: 350,
+    category: "إكسسوارات رياضية",
+    description: "مروحة رقبة لاسلكية بـ3 سرعات بتديك انتعاش وراحة في الحر، خفيفة وسهلة الاستخدام وتشتغل من ساعتين لـ8 ساعات بعد الشحن 🔥" 
+  },
+  {
+    images: [
+      "https://media.taager.com/1c88f9ea-da55-420f-b3b6-4dfd8f4cddcf.jpg",
+      "https://media.taager.com/724a86f5-74a9-454f-a9e9-c85350d009df.jpg",
+      "https://media.taager.com/9bd9d001-519e-4d89-a816-ccc801c3db03.jpeg"
+    ],
+    name: "طيارة سبورت",
+    price: 200,
+    category: "العاب",
+    description: "طيارة سبورت هتقدر تتحكم فيها من خلال ريموت كنترول و فيها سينسور، و ليها 4 أجنحة مرنة" 
+  },
+  {
+    images: [
+      "https://media.taager.com/5ebbd57b-e43d-4274-80e7-4f3edfabdb8b.jpg",
+      "https://media.taager.com/08e9ede6-7bbc-470c-9143-1dd6bcd8769f.jpg",
+      "https://media.taager.com/8b72d82c-5364-43c3-88f5-bd4940cf90c5.jpg"
+    ],
+    name: "طقم اقلام الوان للرسم على الماء",
+    price: 230,
+    category: "مستلزمات فنية",
+    description: "عايز هدية مختلفة ومميزة لطفلك يبقى طقم اقلام الوان للرسم على الماء اللي وفرناه النهاردة بسعر ميتفوتش, اطلبه دلوقتي قبل الكمية ما تخلص" 
+  },
+  {
+    images: [
+      "https://media.taager.com/892f86ab-0baa-4c46-93e3-5a04993e7dae.jpg",
+      "https://media.taager.com/940ae00a-ec86-48ab-adda-bdfec62d9573.png",
+      "https://media.taager.com/183788ff-4f98-41e7-ba1f-9263761d74a2.png"
+    ],
+    name: "لعبة السلطعون العجيبة",
+    price: 250,
+    category: "العاب",
+    description: "🦀 لعبة السلطعون العجيبة تحدي سريع وممتع بيختبر السرعة والتركيز في مطاردة السلطعون قبل ما يهرب 😍" 
+  },
+  {
+    images: [
+      "https://media.taager.com/9fbf75bd-896f-42d7-8399-92cec4bdc671.jpg",
+      "https://media.taager.com/fd8fad35-0fda-4e49-820a-bba7738ee6a5.jpg",
+      "https://media.taager.com/85fdc768-b70b-4569-a7a0-306aaf3234f2.jpg",
+      "https://media.taager.com/8de17412-a8ec-488a-b704-541e19ff279d.png"
+    ],
+    name: "ماكينة الحلاقة VGR 108 - 10x1 ",
+    price: 750,
+    category: "أدوات العناية الشخصية",
+    description: "ماكينة حلاقة VGR V-108 أداء احترافي وقوة عالية في إيدك، بتديك حلاقة دقيقة ونظيفة وكأنك في صالون، مع تصميم أنيق يناسب الجنتل مان 🖤" 
   },
 ];
 
